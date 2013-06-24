@@ -1,8 +1,6 @@
 //
 //  Header.h
 //  Vector3
-//
-//  Created by Nick Martin on 6/23/13.
 //  
 //
 
