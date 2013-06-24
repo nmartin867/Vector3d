@@ -1,3 +1,4 @@
 # XCode stuff#
 ###################
-Vector3.xcodeproj/*
+Vector3.xcodeproj/*.*
+Vector3.xcodeproj/**
